@@ -139,6 +139,7 @@ External weather and pollution APIs
 Database for storing policies and claims
 
 Payment gateway simulation for payouts
+![System Architecture]([architecture.png](https://github.com/akriti804/GigShield-AI/blob/main/architecture.png?raw=true))
 
 🔟 Tech Stack
 
