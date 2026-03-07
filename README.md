@@ -140,19 +140,6 @@ Database for storing policies and claims
 
 Payment gateway simulation for payouts
 
----
-config:
-  theme: neo
----
-flowchart TD
-A[Accident Occurs] --> B[Worker Reports Incident]
-B --> C[Upload Photos & Location]
-C --> D[AI Verification]
-D --> E{Valid Claim?}
-E -->|Yes| F[Approve Insurance Claim]
-E -->|No| G[Reject Claim]
-F --> H[Payment Processing]
-
 🔟 Tech Stack
 
 Frontend:-
