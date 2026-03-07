@@ -15,13 +15,13 @@ The system monitors external disruptions such as weather conditions and environm
 
 This approach eliminates manual claims and provides gig workers with a reliable financial safety net.
 
-3️ Target Persona
+3️ Target Persona:
 
 GigShield AI is designed for gig economy delivery partners who rely on daily deliveries as their primary source of income.
 
 These workers are often affected by external disruptions such as bad weather, extreme heat, pollution spikes, or government restrictions, which reduce their working hours and income.
 
-Target Users
+Target Users:
 
 Food delivery partners working with platforms such as:
 
@@ -33,13 +33,13 @@ Zepto
 
 Example Persona:
 
-Name: Rahul Sharma
-Age: 26
-Profession: Food Delivery Partner
-Platform: Swiggy
-City: Delhi
+Name: Rahul Sharma,
+Age: 26,
+Profession: Food Delivery Partner,
+Platform: Swiggy,
+City: Delhi,
 
-Profile
+Profile:
 
 Average Daily Earnings: ₹700
 
