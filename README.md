@@ -95,8 +95,6 @@ The system calculates estimated income loss.
 
 Instant payout is processed via payment simulation.
 
-![Image Alt]([image_url](https://github.com/akriti804/GigShield-AI/blob/main/system%20architecture.png?raw=true))
-
 6️⃣ Weekly Pricing Model
 
 | Plan | Weekly Premium | Coverage |
