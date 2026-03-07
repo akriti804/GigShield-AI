@@ -1,13 +1,13 @@
 # GigShield-AI
 GigShield AI – An AI-powered safety and risk detection platform that protects gig workers by analyzing real-time weather, location, and environmental data to provide instant alerts and smarter insurance claim support.
 
-1️⃣ Problem Statement
+ 1. Problem Statement
 
 India’s gig economy delivery partners such as Swiggy, Zomato, and Zepto often face income loss due to external disruptions like extreme weather, pollution spikes, and unexpected curfews.
 
 These disruptions can reduce their working hours significantly, causing a loss of 20–30% of their weekly income. Currently, there is no automated insurance system that protects gig workers from such income loss.
 
-2️⃣ Proposed Solution
+2.  Proposed Solution
 
 GigShield AI is an AI-powered parametric insurance platform designed specifically for delivery partners.
 
@@ -15,7 +15,7 @@ The system monitors external disruptions such as weather conditions and environm
 
 This approach eliminates manual claims and provides gig workers with a reliable financial safety net.
 
-3️⃣ Target Persona
+3️ Target Persona
 
 GigShield AI is designed for gig economy delivery partners who rely on daily deliveries as their primary source of income.
 
@@ -31,7 +31,7 @@ Zomato
 
 Zepto
 
-Example Persona
+Example Persona:
 
 Name: Rahul Sharma
 Age: 26
@@ -47,7 +47,7 @@ Weekly Working Days: 6 days
 
 Primary Income Source: Delivery gigs
 
-Pain Points
+Pain Points:
 
 Income loss during heavy rain or extreme heat
 
@@ -55,7 +55,7 @@ Reduced orders during pollution spikes or curfews
 
 No insurance coverage for short-term income disruption
 
-How GigShield AI Helps
+How GigShield AI Helps:
 
 Calculates risk score based on Rahul’s location
 
@@ -65,7 +65,7 @@ Automatically triggers claims when disruption thresholds are met
 
 Provides instant payout simulation for income loss
 
-4️⃣ Key Features
+4️ Key Features
 
 AI-based risk profiling
 
@@ -79,7 +79,7 @@ Instant payout simulation
 
 Worker and Admin dashboards
 
-5️⃣ System Workflow
+5️ System Workflow
 
 Worker registers on the platform.
 
@@ -95,7 +95,7 @@ The system calculates estimated income loss.
 
 Instant payout is processed via payment simulation.
 
-6️⃣ Weekly Pricing Model
+6️ Weekly Pricing Model
 
 | Plan | Weekly Premium | Coverage |
 |------|---------------|---------|
@@ -103,7 +103,7 @@ Instant payout is processed via payment simulation.
 | Standard | ₹40 | Up to ₹4000 income loss |
 | Pro | ₹60 | Up to ₹6000 income loss |
 
-7️⃣ Parametric Triggers
+7️ Parametric Triggers
 
 | Disruption | Trigger Condition |
 |-----------|------------------|
@@ -112,7 +112,7 @@ Instant payout is processed via payment simulation.
 | Severe Pollution | AQI > 400 |
 | Zone Closure | Curfew or access restriction |
 
-8️⃣ AI Integration
+8️ AI Integration
 
 AI models are used for:
 
@@ -124,7 +124,7 @@ Fraud detection through anomaly detection
 
 Income loss estimation
 
-9️⃣ System Architecture
+9️ System Architecture
 
 The platform consists of the following components:
 
@@ -140,9 +140,7 @@ Database for storing policies and claims
 
 Payment gateway simulation for payouts
 
-![System Architecture]([architecture.png](https://github.com/akriti804/GigShield-AI/blob/main/architecture.png?raw=true))
-
-🔟 Tech Stack
+10. Tech Stack
 
 Frontend:-
 
@@ -174,7 +172,7 @@ Version Control:-
 
 GitHub
 
-1️⃣1️⃣ Future Improvements
+11. Future Improvements
 
 Hyperlocal risk heatmaps
 
