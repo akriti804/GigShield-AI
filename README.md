@@ -65,7 +65,25 @@ Automatically triggers claims when disruption thresholds are met
 
 Provides instant payout simulation for income loss
 
-4️ Key Features
+4. UI Prototype:
+
+Tool:
+
+  Figma
+
+Design screens:
+
+ Login page
+
+ Insurance plans
+
+ Worker dashboard
+
+ Claims page
+
+ Admin analytics
+
+5. Key Features
 
 AI-based risk profiling
 
@@ -79,7 +97,7 @@ Instant payout simulation
 
 Worker and Admin dashboards
 
-5️ System Workflow
+6. System Workflow
 
 Worker registers on the platform.
 
@@ -95,7 +113,7 @@ The system calculates estimated income loss.
 
 Instant payout is processed via payment simulation.
 
-6️ Weekly Pricing Model
+7. Weekly Pricing Model
 
 | Plan | Weekly Premium | Coverage |
 |------|---------------|---------|
@@ -103,7 +121,7 @@ Instant payout is processed via payment simulation.
 | Standard | ₹40 | Up to ₹4000 income loss |
 | Pro | ₹60 | Up to ₹6000 income loss |
 
-7️ Parametric Triggers
+8. Parametric Triggers
 
 | Disruption | Trigger Condition |
 |-----------|------------------|
@@ -112,7 +130,7 @@ Instant payout is processed via payment simulation.
 | Severe Pollution | AQI > 400 |
 | Zone Closure | Curfew or access restriction |
 
-8️ AI Integration
+9. AI Integration
 
 AI models are used for:
 
@@ -124,7 +142,7 @@ Fraud detection through anomaly detection
 
 Income loss estimation
 
-9️ System Architecture
+10. System Architecture
 
 The platform consists of the following components:
 
@@ -140,7 +158,7 @@ Database for storing policies and claims
 
 Payment gateway simulation for payouts
 
-10. Tech Stack
+11. Tech Stack
 
 Frontend:-
 
@@ -172,7 +190,7 @@ Version Control:-
 
 GitHub
 
-11. Future Improvements
+12. Future Improvements
 
 Hyperlocal risk heatmaps
 
