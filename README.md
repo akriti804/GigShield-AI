@@ -35,6 +35,29 @@ We integrated AI-based risk scoring with parametric triggers to automate claim p
 
 ---
 
+###  System Workflow
+
+![Workflow](./images/workflow.png)
+
+This workflow shows how user data flows through the system—from input collection to AI-based risk analysis and automated payout processing.
+
+---
+
+###  System Architecture
+
+![Architecture](./images/architecture.png)
+
+The architecture represents the interaction between frontend, backend, AI engine, and external APIs, ensuring a scalable and real-time processing system.
+
+###   System Auto Claim Flow
+
+![Claim Flow](./images/claim-flow.png)
+
+
+This diagram illustrates how the system automatically detects disruptions, verifies conditions, calculates income loss, and triggers instant payouts without manual claims.
+
+---
+
 ## AI/ML Strategy
 
 We use machine learning models to predict disruption risk:
@@ -66,6 +89,21 @@ We use:
 * AQI > 300 → Unsafe working conditions
 
 These thresholds are based on environmental safety benchmarks and observed drops in delivery activity.
+
+##  Disruption Triggers
+
+| Disruption | Trigger Condition |
+|-----------|------------------|
+| Heavy Rain | Rainfall > 60mm |
+| Extreme Heat | Temperature > 45°C |
+| Severe Pollution | AQI > 400 |
+| Zone Closure | Curfew or access restriction |
+
+
+
+
+
+
 
 ---
 
@@ -134,6 +172,14 @@ This ensures:
 * Sustainable revenue
 * Risk coverage
 * Scalability
+---
+## Subscription Plans & Coverage
+
+| Plan | Weekly Premium | Coverage |
+|------|---------------|---------|
+| Basic | ₹20 | Up to ₹2000 income loss |
+| Standard | ₹40 | Up to ₹4000 income loss |
+| Pro | ₹60 | Up to ₹6000 income loss |
 
 ---
 
