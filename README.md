@@ -181,6 +181,8 @@ This ensures:
 | Standard | ₹40 | Up to ₹4000 income loss |
 | Pro | ₹60 | Up to ₹6000 income loss |
 
+The following plans are designed to provide flexible and affordable coverage for gig workers.
+
 ---
 
 ## Coverage & Exclusions
